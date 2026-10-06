@@ -1,0 +1,7 @@
+my_lat_lon.txt
+venv/
+cache/
+
+data/nordeste-260925.osm.pbf
+# Too big to be uploaded to github
+# Downloaded at https://download.geofabrik.de/
